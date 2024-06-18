@@ -1,6 +1,5 @@
 flask
 pandas
-pickle5
 gradio
 scikit-learn
 gunicorn
